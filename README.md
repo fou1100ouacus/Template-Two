@@ -1,5 +1,6 @@
 # Template-Two
 # HTML & CSS Template
+Welcome to the **HTML & CSS Template** repository! This project is a fully responsive website template built using modern HTML and CSS practices. The template includes essential layout structures and reusable components that can be easily modified and adapted for various projects.
 
 
 ## 🚀 Features
