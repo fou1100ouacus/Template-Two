@@ -1,26 +1,4 @@
-:root {
-  --main-color: #19c8fa;
-  --section-padding: 100px;
-  --transparent-color: rgb(15 116 143 / 70%);
-}
 
-* {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  padding: 0;
-  box-sizing: border-box;
-  margin: 0;
-
-}
-
-html {
-  scroll-behavior: smooth;
-}
-
-body {
-  font-family: "Open Sans", sans-serif;
-  background-color: white;
-}
 
 ul {
   /* any link remove bolts form it */
