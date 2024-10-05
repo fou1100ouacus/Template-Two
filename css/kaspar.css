@@ -1346,3 +1346,11 @@ header nav .toggle-menu {
   padding: 10px 15px;
 }
 
+.footer .copyright {
+  margin-top: 60px;
+}
+
+.footer .copyright span {
+  font-weight: bold;
+  color: var(--main-color);
+}
